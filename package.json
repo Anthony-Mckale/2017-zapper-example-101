@@ -2,7 +2,8 @@
   "name": "tic-tac-toe",
   "description": "",
   "version": "0.0.1",
-  "licenses": "MIT",
+  "license": "MIT",
+  "repository": "https://github.com/Anthony-Mckale/2017-zapper-example-101",
   "author": {
     "name": "Anthony McKale",
     "email": "anthony.mckale@sky.uk"
