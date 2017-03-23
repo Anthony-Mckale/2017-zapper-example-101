@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac-toe",
+  "description": "",
+  "version": "0.0.1",
+  "licenses": "MIT",
+  "author": {
+    "name": "Anthony McKale",
+    "email": "anthony.mckale@sky.uk"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.23.0",
+    "react": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.0",
+    "babelify": "^7.3.0",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "http-server": "^0.9.0"
+  }
+}

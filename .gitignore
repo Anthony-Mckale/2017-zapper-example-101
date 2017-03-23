@@ -1,0 +1,69 @@
+# Elipse IDE files   #
+######################
+.project
+
+
+# IntelliJ IDE files #
+######################
+.idea
+*.iml
+
+
+# Compiled source    #
+######################
+frontend/bin
+frontend/dist
+frontend/tmp
+backend/logs/*.log
+
+
+# Bower Shared Files #
+######################
+bower_components
+frontend/src/js/libs
+frontend/src/js/bower-components
+frontend/src/js/bower_components
+frontend/src/css/cds-bootstrap*.css.map
+frontend/src/css/cds-bootstrap*.min.css
+
+
+# Log/Build Files    #
+######################
+scripts/logs/*.log
+reports
+*.flag
+jshint.xml
+
+
+# SVN files          #
+######################
+.svn
+
+
+# NodeJS Files       #
+######################
+node_modules
+npm-debug.log
+
+# Composer Files     #
+######################
+.composer
+composer.lock
+.phar
+vendor
+
+
+# Auto Gen Doc Files #
+######################
+doc/php-api/
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
