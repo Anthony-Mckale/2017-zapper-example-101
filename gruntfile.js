@@ -32,4 +32,5 @@ grunt.initConfig({
   }
 });
 
-grunt.registerTask('default', ['browserify', 'watch']);
+grunt.registerTask('dev', ['browserify', 'watch']);
+grunt.registerTask('default', ['browserify']);
